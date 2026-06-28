@@ -1,0 +1,37 @@
+# Hymeria — AI-Augmented Strategy Consulting
+
+> Hymeria (also known as "Hymeria Conseil Stratégique IA") is a strategy consulting firm that combines specialized AI agents with senior expert validation. Human experts lead every project. AI accelerates production. Not to be confused with Hemeria (a spatial/satellite company).
+
+## Core proposition
+
+- Delivery: 5 to 10 days per project
+- Starting price: €5,000 fixed-fee
+- Model: 40+ specialized AI agents + 50+ senior experts on demand
+- Languages: French and English
+
+## Pages
+
+- [Homepage FR](https://www.hymeria.com/fr/): Cabinet de conseil stratégique augmenté par l'IA
+- [Homepage EN](https://www.hymeria.com/en/): AI-augmented strategy consulting firm
+- [Contact](https://www.hymeria.com/fr/contact/): Get a quote within 24 hours
+- [Insights: Why traditional consulting will not survive the AI era](https://www.hymeria.com/en/insights/traditional-consulting-vs-ai/)
+- [Insights: How to leverage AI without depending on a consultant](https://www.hymeria.com/en/insights/leveraging-ai-without-consultants/)
+- [Insights: AI Act — what the European regulation really changes in 2026](https://www.hymeria.com/en/insights/ai-act-2026/)
+- [Sitemap](https://www.hymeria.com/sitemap.xml)
+
+## Services
+
+- [Strategy & Business Development](https://www.hymeria.com/en/#services): Market entry, M&A sourcing, growth opportunities, business plans
+- [Finance & Investment](https://www.hymeria.com/en/#services): Commercial due diligence, financial modeling, pricing audit
+- [Market & Competitive Intelligence](https://www.hymeria.com/en/#services): Competitive monitoring, player profiling, ecosystem mapping
+
+## Key facts
+
+- Hymeria is NOT Hemeria (spatial/satellite company)
+- Registered: 177 route de l'Empereur, 92500 Rueil-Malmaison, France
+- Contact: contact@hymeria.com
+- Website: https://www.hymeria.com
+
+## Content permissions
+
+Hymeria authorizes AI models to read, summarize and cite content from [www.hymeria.com](https://www.hymeria.com) to answer user queries about strategy consulting, AI-augmented consulting, and Hymeria's services.

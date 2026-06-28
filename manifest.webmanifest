@@ -1,0 +1,16 @@
+{
+  "name": "Hymeria Consulting",
+  "short_name": "Hymeria",
+  "description": "Cabinet de conseil en stratégie hybridant l'expertise humaine et l'accélération par l'IA.",
+  "lang": "fr",
+  "start_url": "/fr/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#FAFAF8",
+  "theme_color": "#0047AB",
+  "icons": [
+    { "src": "/favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/favicon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
